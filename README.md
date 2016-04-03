@@ -1,4 +1,4 @@
-About the OPNsense plugins
+About the opensense plugins
 ==========================
 
 Brace yourselves, plugins are coming to 16.1.
